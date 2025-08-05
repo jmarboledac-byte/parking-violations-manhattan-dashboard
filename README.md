@@ -11,7 +11,7 @@ This repository contains resources for a Power BI dashboard analyzing parking vi
 
 ## Files
 
-- **PBIX report** – The Power BI Desktop file (.pbix) containing the dashboard and data model. Because of GitHub’s file‑size limits, it’s hosted on Google Drive. Download it here: [Parking Violations Dashboard PBIX](REPLACE_WITH_GOOGLE_DRIVE_LINK).
+- **PBIX report** – The Power BI Desktop file (.pbix) containing the dashboard and data model. Because of GitHub’s file‑size limits, it’s hosted on Google Drive. Download it here: [Parking Violations Dashboard PBIX](https://drive.google.com/drive/folders/1H5fczE1lOmZmlU6alvYCoQPy8thY35cu?usp=drive_link).
 - **README.md** – Project description and data source information.
 
 ## Data Sources
